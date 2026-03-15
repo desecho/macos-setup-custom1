@@ -1,0 +1,10 @@
+---
+ansible_python_interpreter: /opt/homebrew/opt/python@3.13/bin/python3.13
+
+npm_packages:
+  - prettier
+  - json2yaml
+
+default_editor: nano
+
+shell_init_file: ".zshrc"
