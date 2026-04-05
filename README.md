@@ -9,6 +9,11 @@ Install these apps:
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
 * [Docker](https://docs.docker.com/engine/install/)
 * [Homebrew](http://brew.sh/)
+* [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
+
+Install JetBrains Mono Font
+
+* [JetBrains Mono Font](https://www.jetbrains.com/lp/mono/)
 
 Type `git` in the terminal - this will install developer tools.
 

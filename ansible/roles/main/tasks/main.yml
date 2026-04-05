@@ -3,4 +3,5 @@
 
 - include: aliases_and_commands.yml
 - include: git.yml
+- include: kitty.yml
 - include: misc.yml
