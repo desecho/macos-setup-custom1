@@ -21,8 +21,8 @@ code --install-extension cameron.vscode-pytest
 # Dockerfile
 code --install-extension ms-azuretools.vscode-docker
 
-# tf
-code --install-extension hashicorp.terraform
+# # tf
+# code --install-extension hashicorp.terraform
 
 # sh
 code --install-extension timonwong.shellcheck
