@@ -1,5 +1,5 @@
 ---
-ansible_python_interpreter: /opt/homebrew/opt/python@3.13/bin/python3.13
+ansible_python_interpreter: /opt/homebrew/opt/python@3.12/bin/python3.12
 
 # npm_packages:
 #   - prettier

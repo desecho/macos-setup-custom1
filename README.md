@@ -4,7 +4,6 @@
 
 Install these apps:
 
-* [iTerm2](http://www.iterm2.com/)
 * [VS Code](https://code.visualstudio.com/)
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
 * [Docker](https://docs.docker.com/engine/install/)
