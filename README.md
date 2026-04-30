@@ -9,6 +9,8 @@ Install these apps:
 * [Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
 * [Homebrew](http://brew.sh/)
 * [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
+* [1Password](https://1password.com/downloads/mac)
+* [Claude Code](https://code.claude.com/docs/en/overview#native-install-recommended)
 
 Install JetBrains Mono Font
 
