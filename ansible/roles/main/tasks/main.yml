@@ -1,7 +1,7 @@
 ---
 # - include: packages/npm.yml
 
-- include: aliases_and_commands.yml
-- include: git.yml
-- include: kitty.yml
-- include: misc.yml
+- include_tasks: aliases_and_commands.yml
+- include_tasks: git.yml
+- include_tasks: kitty.yml
+- include_tasks: misc.yml

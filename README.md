@@ -6,7 +6,7 @@ Install these apps:
 
 * [VS Code](https://code.visualstudio.com/)
 * [Chrome](https://www.google.com/intl/en/chrome/browser/)
-* [Docker](https://docs.docker.com/engine/install/)
+* [Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
 * [Homebrew](http://brew.sh/)
 * [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
 
@@ -25,12 +25,6 @@ Open `System Preferences`
 Open `Keyboard` → `Keyboard`
 
 * `Key repeat` - set to the fastest setting
-
-Open `Keyboard` → `Text`
-
-* Disable `Correct spelling automatically`
-* Disable `Capitalize words automatically`
-* Disable `Add a period with double-space`
 
 Open `Dock & Menu Bar`
 
@@ -112,7 +106,16 @@ make install-python-pkgs
 To install Ansible run
 
 ```bash
-make install-ansible
+python3.12 -m venv .venv
+source .venv/bin/activate
+pip install ansible==13.6.0
+```
+
+Run this command:
+
+```
+USERNAME=<your_username>
+echo 'export PATH="/Users/$USERNAME/Library/Python/3.9/bin:$PATH"' >> ~/.zshrc
 ```
 
 Then you need to configure the variables in `ansible/vars.yml`.
