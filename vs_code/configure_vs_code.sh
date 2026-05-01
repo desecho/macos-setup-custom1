@@ -40,3 +40,5 @@ code --install-extension waderyan.gitblame
 code --install-extension mohsen1.prettify-json
 code --install-extension geddski.macros
 # --------------------------------------------------------------------------------
+
+code --install-extension Anthropic.claude-code
