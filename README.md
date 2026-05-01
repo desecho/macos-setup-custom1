@@ -11,6 +11,7 @@ Install these apps:
 * [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
 * [1Password](https://1password.com/downloads/mac)
 * [Claude Code](https://code.claude.com/docs/en/overview#native-install-recommended)
+* [iTerm](https://iterm2.com/downloads.html)
 
 Install JetBrains Mono Font
 

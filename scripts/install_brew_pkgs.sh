@@ -15,7 +15,11 @@ brew install yh
 # brew install tflint
 brew install noahgorstein/tap/jqp
 brew install shfmt
+
 brew install python@3.12
-brew install awscli
 # shellcheck disable=SC2016
 echo 'export PATH="/opt/homebrew/opt/python@3.12/bin:$PATH"' >> ~/.zshrc
+
+brew install awscli
+brew install postgresql
+brew install pre-commit
